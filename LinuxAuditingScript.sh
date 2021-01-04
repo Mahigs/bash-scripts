@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #Linux Auditing Script
 #Version 1.0
